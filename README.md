@@ -8,5 +8,5 @@ ___
 
 ___
 
-#### 📌 Blog : https://k-taeyang.tistory.com/
-#### 📌 Instagram : https://www.instagram.com/ktaeyang
+###### 📌 Blog : https://k-taeyang.tistory.com/
+###### 📌 Instagram : https://www.instagram.com/ktaeyang
